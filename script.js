@@ -1,5 +1,5 @@
 // 1, install express
-//  1, install cookie-parser
+// 2, install cookie-parser
 
 const express = require('express')
 const { Session } = require('inspector')
